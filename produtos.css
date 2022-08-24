@@ -9,6 +9,7 @@ display: inline;
 nav a {
 text-transform: uppercase;
 color: #000000;
+font-weight: bold;
 }
 
 
