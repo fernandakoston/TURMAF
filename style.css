@@ -118,7 +118,7 @@ width: 50%;
 margin:20px 0;
 }
 
-.enviar {
+.enviar{
     width:40%;
     padding: 15px 0;
     background: orange;
@@ -131,7 +131,7 @@ margin:20px 0;
     cursor: pointer;
 }
 
-.enviar:hover {
+.enviar:hover{
     background: darkorange;
     transform: scale(1.2);
 }
