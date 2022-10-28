@@ -151,11 +151,12 @@ td, th {
 }
 
 /*css da página inicial*/
+
 .banner{
 width: 100%;
 }
 
-.título-principal{
+.titulo-principal{
 text-align: center;
 font-size:2em
 margin:0 0 1em;
