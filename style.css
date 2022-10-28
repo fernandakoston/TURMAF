@@ -149,3 +149,13 @@ td, th {
     border: 1px solid #000000;
     padding: 8px 15px;
 }
+
+/*css da página inicial*/
+.banner{
+width: 100%;
+}
+
+.título-principal{
+text-align: center;
+font-size:2em
+}
