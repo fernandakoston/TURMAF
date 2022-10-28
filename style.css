@@ -158,4 +158,10 @@ width: 100%;
 .título-principal{
 text-align: center;
 font-size:2em
+margin:0 0 1em;
+}
+
+
+.principal p {
+margin:0 0 1em;
 }
