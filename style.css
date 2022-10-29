@@ -149,23 +149,20 @@ td, th {
     border: 1px solid #000000;
     padding: 8px 15px;
 }
-
-/*css da página inicial*/
-
-.banner{
-width: 100%;
-margin: 0 0
+/* css da página inicial */
+.banner {
+    width:100%;
 }
 
-.titulo-principal{
-text-align: center;
-font-size:2em
-margin:0 0 1em;
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
 }
-
 
 .principal p {
-margin:0 0 1em;
+    margin: 0 0 1em;
 }
 
 .principal strong {
@@ -175,9 +172,3 @@ margin:0 0 1em;
 .principal em {
     font-style: italic;
 }
-
-.imagem {
-width: 60%;
-}
-
-
