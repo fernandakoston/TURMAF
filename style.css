@@ -95,10 +95,9 @@ footer{
 	font-size: 13px;
 	margin: 20 0 0;
 }
-
-main{
-	wigth: 940px;
-	margin: 0 auto;
+main {
+    width: 940px;
+    margin: 0 auto;
 }
 
 form{
@@ -190,10 +189,9 @@ margin: 0 0 2em;
 text-align: center;
 }
 
-
-.beneficios {
+.beneficios { 
     padding: 3em 0;
-	background: #CCCCC
+    background: #888888;
 }
 
 .conteudo-beneficios {
@@ -213,4 +211,12 @@ text-align: center;
 
 .itens:first-child {
     font-weight: bold;
+}
+
+
+.principal {
+    padding: 3em 0;
+    background: #FEFEFE;
+    width: 940px;
+    margin: 0 auto;
 }
